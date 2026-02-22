@@ -27,7 +27,7 @@ I focus on writing clean, scalable, and maintainable backend systems designed fo
 
 ## 🏗️ Backend Expertise
 
-- 🔹 Core Java (OOP, Collections, Streams, Multithreading)
+- 🔹 Core Java
 - 🔹 Spring Framework (IoC, DI, ApplicationContext)
 - 🔹 Spring Boot (REST APIs, Profiles, Exception Handling)
 - 🔹 Spring Security (JWT, Role-based Authorization)
@@ -35,8 +35,7 @@ I focus on writing clean, scalable, and maintainable backend systems designed fo
 - 🔹 Microservices Architecture
 - 🔹 RESTful API Design
 - 🔹 API Gateway Concepts
-- 🔹 Performance Optimization (p95 / latency awareness)
-- 🔹 Distributed Systems Basics
+- 🔹 Performance Optimization
 
 ---
 
