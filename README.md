@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Pandey</h1>
-<h3 align="center">Cloud-Native Java Backend Engineer | Spring Boot | Azure | Kubernetes</h3>
+<h3 align="center">Cloud-Native Java Backend Engineer | Java | Spring Boot | Azure | Kubernetes</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/shreyash-pandey-353759203">
