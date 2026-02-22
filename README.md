@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 - 🌱 I’m currently learning MERN Stack
 
-- 💬 Ask me about **Flutter,NodeJS,mongoDB,expressJS,Firebase**
+- 💬 Ask me about **Java,Spring,Springboot,Azure,Cloud,Linux,Rest APIs,Flutter,NodeJS,mongoDB,expressJS,Firebase**
 
 - 📫 How to reach me **https://www.linkedin.com/in/shreyash-pandey-353759203/**
 
