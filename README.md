@@ -2,7 +2,7 @@
 <h3 align="center">Cloud-Native Java Backend Engineer | Java | Spring Boot | Azure | Kubernetes</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shreyash-pandey-353759203">
+  <a href="https://linkedin.com/in/shreyash-pandey1">
     <img src="https://img.shields.io/badge/LinkedIn-Shreyash%20Pandey-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
