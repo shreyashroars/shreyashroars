@@ -86,7 +86,7 @@ NodeJS • Express • Flutter • Firebase • Postman • Git
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/shreyash-pandey-353759203
+- 💼 LinkedIn: https://linkedin.com/in/shreyash1
 - 📫 Always open to backend engineering & cloud-native opportunities
 
 ---
